@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dict>
+  <key>helpTitle</key>
+  <string>帮助信息</string>
+  
+  <key>score</key>
+  <string>分数: </string>
+  
+  <key>helpMessage</key>
+  <string>点击屏幕相对于蛇头的上、下、左、右，小蛇将根据方向移动，离开网格或者蛇头碰到蛇身，游戏结束</string>
+ </dict>
